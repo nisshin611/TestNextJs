@@ -2,7 +2,7 @@ echo "# TestNextJs" >> README.md
 
 git init
 
-git add . // Push ไปทั้งหมด
+git add . // Push ไปทั้งหมด เปลี่ยนเป็นการ commit 
 
 git commit -m "first commit"
 
